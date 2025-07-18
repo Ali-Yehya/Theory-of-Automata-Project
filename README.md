@@ -25,7 +25,7 @@ A Python GUI application that **converts a regular expression into a minimized D
 
 ## GUI Preview
 
-
+<img width="1920" height="1160" alt="toa" src="https://github.com/user-attachments/assets/f705dfb7-3de2-43ee-b072-303fa7f30e0e" />
 
 --- 
 
